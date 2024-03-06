@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iqeq126)](https://solved.ac/iqeq126) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqeq126) <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiqeq126&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqeq126&layout=compact&exclude_repo=algorithmm,laundryfinder-backend&langs_count=20"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=iqeq126&show_icons=true"><br>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=iqeq126"><br>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiqeq126&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"><br>
+</div>
