@@ -12,7 +12,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> 
-  <h2 align="left">📚 Tech Stack </h2>
+  <details align="left">
+  <summary><h2>💡 Algorithm</h2><br>
+    <p align=center>
+      <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=iqeq126"/>
+    </p>
+  </summary>
+  <p align=center>
+    <img src="https://mazandi.herokuapp.com/api?handle=iqeq126&theme=warm"/>
+  </p>
+  </details><br>
+  <details>
+  <summary align="left"><h2> 🏆 Awards </h2></summary>
+  <table align="center">
+    <tr>
+      <td>2022.11.04 </td> <td> 제 9회 소프트웨어 개발 보안 경진대회 장려상</td>
+    </tr>
+    <tr>
+      <td>2023.08.02 </td> <td>KOREATECH 공학설계캠프 최우수상</td>
+    </tr>
+    <tr>
+      <td>2023.08.28 </td> <td>동국대 스마트 물시티 공모전 우수상</td>
+    </tr>
+    <tr>
+      <td>2023.11.22 </td><td>제 1회 스마트건강도시아이디어공모전 우수상</td>
+    </tr>
+  </table>
+  </details>
+  <details>
+  <summary align="left"><h2 align="left">📚 Tech Stack </h2></summary>
   <h3 align="center"> 🌱 I’m currently learning </h3>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a> 
@@ -39,14 +67,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft sql server&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> 
 
-  <h4 align="center">IoT</h4>
+  <h3 align="center">IoT</h3>
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=MQTT&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/></a>   
-
+  </details>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqeq126&layout=compact&exclude_repo=algorithmm,laundryfinder-backend&langs_count=20"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=iqeq126&show_icons=true"><br> -->
-  <h2 align="left">💡 Algorithm</h2>
-<img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=iqeq126"><br>
-<img src="https://mazandi.herokuapp.com/api?handle=iqeq126&theme=warm"><br>
   </div>
